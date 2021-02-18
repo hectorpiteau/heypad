@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/poiri/Documents/KiCad/Libraries/TMK/Keyboard_component/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name dk_Crystals)(type Legacy)(uri C:/Users/poiri/Documents/KiCad/Libraries/Digikey/digikey-symbols/dk_Crystals.lib)(options "")(descr ""))
+  (lib (name dk_USB-DVI-HDMI-Connectors)(type Legacy)(uri C:/Users/poiri/Documents/KiCad/Libraries/Digikey/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib)(options "")(descr ""))
+)
